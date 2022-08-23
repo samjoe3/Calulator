@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    color: azure;
+    text-shadow: 0 0 .5rem black;
+}
+.calculatorbody {
+
+    margin: auto;
+    margin-top: 12vh;
+    display: flex;
+    justify-content: center;
+    background-color: #31363a;
+    flex-flow: wrap;
+    height: 720px;
+    width: 440px;
+    border: 2px solid black;
+    border-radius: 10px;
+    
+}
+.label {
+    width: 100vw;
+    /* background-color: red; */
+    text-align: center;
+}
