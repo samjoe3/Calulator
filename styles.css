@@ -24,8 +24,12 @@ body {
 }
 .screen {
     background-color: azure;
+    color: black;
+    text-align: end;
+    padding-top: 4%;
+    font-size: 40px;
     width: 80%;
-    height: 12%;
+    height: 9%;
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 18px;
@@ -39,7 +43,7 @@ body {
     margin-top: 25px;
     margin-bottom: 25px;
 }
-.clear, .x {
+.clear, .multiply {
     width: 15%;
     height: 60%;
     color: #31363a;
